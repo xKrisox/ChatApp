@@ -1,0 +1,197 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Krzysztof\\Documents\\C#_projekty\\Chat_test\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6FE05381-69E7-449F-8D70-41D571CA3185}|Chat_test\\Chat_test.csproj|c:\\users\\krzysztof\\documents\\c#_projekty\\chat_test\\chat_test\\wwwroot\\js\\chatapp.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{6FE05381-69E7-449F-8D70-41D571CA3185}|Chat_test\\Chat_test.csproj|solutionrelative:chat_test\\wwwroot\\js\\chatapp.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FE05381-69E7-449F-8D70-41D571CA3185}|Chat_test\\Chat_test.csproj|c:\\users\\krzysztof\\documents\\c#_projekty\\chat_test\\chat_test\\models\\chatmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FE05381-69E7-449F-8D70-41D571CA3185}|Chat_test\\Chat_test.csproj|solutionrelative:chat_test\\models\\chatmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FE05381-69E7-449F-8D70-41D571CA3185}|Chat_test\\Chat_test.csproj|c:\\users\\krzysztof\\documents\\c#_projekty\\chat_test\\chat_test\\hub\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FE05381-69E7-449F-8D70-41D571CA3185}|Chat_test\\Chat_test.csproj|solutionrelative:chat_test\\hub\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FE05381-69E7-449F-8D70-41D571CA3185}|Chat_test\\Chat_test.csproj|c:\\users\\krzysztof\\documents\\c#_projekty\\chat_test\\chat_test\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6FE05381-69E7-449F-8D70-41D571CA3185}|Chat_test\\Chat_test.csproj|solutionrelative:chat_test\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FE05381-69E7-449F-8D70-41D571CA3185}|Chat_test\\Chat_test.csproj|c:\\users\\krzysztof\\documents\\c#_projekty\\chat_test\\chat_test\\models\\indexvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FE05381-69E7-449F-8D70-41D571CA3185}|Chat_test\\Chat_test.csproj|solutionrelative:chat_test\\models\\indexvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FE05381-69E7-449F-8D70-41D571CA3185}|Chat_test\\Chat_test.csproj|c:\\users\\krzysztof\\documents\\c#_projekty\\chat_test\\chat_test\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FE05381-69E7-449F-8D70-41D571CA3185}|Chat_test\\Chat_test.csproj|solutionrelative:chat_test\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FE05381-69E7-449F-8D70-41D571CA3185}|Chat_test\\Chat_test.csproj|c:\\users\\krzysztof\\documents\\c#_projekty\\chat_test\\chat_test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FE05381-69E7-449F-8D70-41D571CA3185}|Chat_test\\Chat_test.csproj|solutionrelative:chat_test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FE05381-69E7-449F-8D70-41D571CA3185}|Chat_test\\Chat_test.csproj|c:\\users\\krzysztof\\documents\\c#_projekty\\chat_test\\chat_test\\chat_test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6FE05381-69E7-449F-8D70-41D571CA3185}|Chat_test\\Chat_test.csproj|solutionrelative:chat_test\\chat_test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FE05381-69E7-449F-8D70-41D571CA3185}|Chat_test\\Chat_test.csproj|c:\\users\\krzysztof\\documents\\c#_projekty\\chat_test\\chat_test\\models\\signinvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FE05381-69E7-449F-8D70-41D571CA3185}|Chat_test\\Chat_test.csproj|solutionrelative:chat_test\\models\\signinvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FE05381-69E7-449F-8D70-41D571CA3185}|Chat_test\\Chat_test.csproj|c:\\users\\krzysztof\\documents\\c#_projekty\\chat_test\\chat_test\\views\\home\\signin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6FE05381-69E7-449F-8D70-41D571CA3185}|Chat_test\\Chat_test.csproj|solutionrelative:chat_test\\views\\home\\signin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FE05381-69E7-449F-8D70-41D571CA3185}|Chat_test\\Chat_test.csproj|c:\\users\\krzysztof\\documents\\c#_projekty\\chat_test\\chat_test\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6FE05381-69E7-449F-8D70-41D571CA3185}|Chat_test\\Chat_test.csproj|solutionrelative:chat_test\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IndexVm.cs",
+              "DocumentMoniker": "C:\\Users\\Krzysztof\\Documents\\C#_projekty\\Chat_test\\Chat_test\\Models\\IndexVm.cs",
+              "RelativeDocumentMoniker": "Chat_test\\Models\\IndexVm.cs",
+              "ToolTip": "C:\\Users\\Krzysztof\\Documents\\C#_projekty\\Chat_test\\Chat_test\\Models\\IndexVm.cs",
+              "RelativeToolTip": "Chat_test\\Models\\IndexVm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T12:50:44.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Krzysztof\\Documents\\C#_projekty\\Chat_test\\Chat_test\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Chat_test\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Krzysztof\\Documents\\C#_projekty\\Chat_test\\Chat_test\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Chat_test\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-05T12:46:11.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "chatApp.js",
+              "DocumentMoniker": "C:\\Users\\Krzysztof\\Documents\\C#_projekty\\Chat_test\\Chat_test\\wwwroot\\js\\chatApp.js",
+              "RelativeDocumentMoniker": "Chat_test\\wwwroot\\js\\chatApp.js",
+              "ToolTip": "C:\\Users\\Krzysztof\\Documents\\C#_projekty\\Chat_test\\Chat_test\\wwwroot\\js\\chatApp.js",
+              "RelativeToolTip": "Chat_test\\wwwroot\\js\\chatApp.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-11-05T12:45:32.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ChatMessage.cs",
+              "DocumentMoniker": "C:\\Users\\Krzysztof\\Documents\\C#_projekty\\Chat_test\\Chat_test\\Models\\ChatMessage.cs",
+              "RelativeDocumentMoniker": "Chat_test\\Models\\ChatMessage.cs",
+              "ToolTip": "C:\\Users\\Krzysztof\\Documents\\C#_projekty\\Chat_test\\Chat_test\\Models\\ChatMessage.cs",
+              "RelativeToolTip": "Chat_test\\Models\\ChatMessage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T12:34:25.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ChatHub.cs",
+              "DocumentMoniker": "C:\\Users\\Krzysztof\\Documents\\C#_projekty\\Chat_test\\Chat_test\\Hub\\ChatHub.cs",
+              "RelativeDocumentMoniker": "Chat_test\\Hub\\ChatHub.cs",
+              "ToolTip": "C:\\Users\\Krzysztof\\Documents\\C#_projekty\\Chat_test\\Chat_test\\Hub\\ChatHub.cs",
+              "RelativeToolTip": "Chat_test\\Hub\\ChatHub.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T12:31:16.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Chat_test.csproj",
+              "DocumentMoniker": "C:\\Users\\Krzysztof\\Documents\\C#_projekty\\Chat_test\\Chat_test\\Chat_test.csproj",
+              "RelativeDocumentMoniker": "Chat_test\\Chat_test.csproj",
+              "ToolTip": "C:\\Users\\Krzysztof\\Documents\\C#_projekty\\Chat_test\\Chat_test\\Chat_test.csproj",
+              "RelativeToolTip": "Chat_test\\Chat_test.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-05T12:29:29.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Krzysztof\\Documents\\C#_projekty\\Chat_test\\Chat_test\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Chat_test\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Krzysztof\\Documents\\C#_projekty\\Chat_test\\Chat_test\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Chat_test\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-04T14:06:25.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Krzysztof\\Documents\\C#_projekty\\Chat_test\\Chat_test\\Program.cs",
+              "RelativeDocumentMoniker": "Chat_test\\Program.cs",
+              "ToolTip": "C:\\Users\\Krzysztof\\Documents\\C#_projekty\\Chat_test\\Chat_test\\Program.cs",
+              "RelativeToolTip": "Chat_test\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T13:32:12.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SignIn.cshtml",
+              "DocumentMoniker": "C:\\Users\\Krzysztof\\Documents\\C#_projekty\\Chat_test\\Chat_test\\Views\\Home\\SignIn.cshtml",
+              "RelativeDocumentMoniker": "Chat_test\\Views\\Home\\SignIn.cshtml",
+              "ToolTip": "C:\\Users\\Krzysztof\\Documents\\C#_projekty\\Chat_test\\Chat_test\\Views\\Home\\SignIn.cshtml",
+              "RelativeToolTip": "Chat_test\\Views\\Home\\SignIn.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-04T13:32:58.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SignInVm.cs",
+              "DocumentMoniker": "C:\\Users\\Krzysztof\\Documents\\C#_projekty\\Chat_test\\Chat_test\\Models\\SignInVm.cs",
+              "RelativeDocumentMoniker": "Chat_test\\Models\\SignInVm.cs",
+              "ToolTip": "C:\\Users\\Krzysztof\\Documents\\C#_projekty\\Chat_test\\Chat_test\\Models\\SignInVm.cs",
+              "RelativeToolTip": "Chat_test\\Models\\SignInVm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T13:27:07.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Krzysztof\\Documents\\C#_projekty\\Chat_test\\Chat_test\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Chat_test\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Krzysztof\\Documents\\C#_projekty\\Chat_test\\Chat_test\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Chat_test\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T13:24:12.649Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
